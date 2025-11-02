@@ -1,22 +1,31 @@
 {
   "name": "@sugenthar/mongokit",
-  "version": "1.1.0",
-  "description": "A Node.js module that simplifies MongoDB integration...",
+  "version": "1.1.1",
+  "description": "A Node.js module that simplifies MongoDB integration by providing ready-to-use connection and model creation utilities for Mongoose.",
   "main": "index.js",
   "type": "module",
   "scripts": {
     "test": "echo \"No test specified\" && exit 0"
   },
   "repository": {
-    "type": "git",
-    "url": "git+https://github.com/Sugenthar-M/mongoKit.git"
-  },
+  "type": "git",
+  "url": "git+https://github.com/Sugenthar-M/mongoKit.git"
+},
   "author": "Sugenthar M",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Sugenthar-M/mongoKit"
+    "url": "https://github.com/Sugenthar-M/mongoKit/issues"
   },
-  "homepage": "https://github.com/Sugenthar-M/mongoKit",
+  "homepage": "https://github.com/Sugenthar-M/mongoKit#readme",
+  "keywords": [
+    "mongodb",
+    "mongoose",
+    "database",
+    "mongo-kit",
+    "nodejs",
+    "model",
+    "connection"
+  ],
   "dependencies": {
     "mongoose": "^8.19.2"
   }
