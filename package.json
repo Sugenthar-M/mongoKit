@@ -1,0 +1,23 @@
+{
+  "name": "@sugenthar/mongokit",
+  "version": "1.1.0",
+  "description": "A Node.js module that simplifies MongoDB integration...",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"No test specified\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sugenthar-M/mongoKit.git"
+  },
+  "author": "Sugenthar M",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sugenthar-M/mongoKit"
+  },
+  "homepage": "https://github.com/Sugenthar-M/mongoKit",
+  "dependencies": {
+    "mongoose": "^8.19.2"
+  }
+}
